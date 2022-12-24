@@ -1,0 +1,15 @@
+{
+  "name": "aarakshan-ticket-booking-portal",
+  "version": "1.0.0",
+  "description": "Aarakshan-Ticket Booking Portal, It is a site for all type of Ticket Booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "author": "Shivkumar Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
